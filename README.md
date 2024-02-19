@@ -10,8 +10,7 @@ If XP is between 8,001 and 9,000 = Ascendant
 If XP is between 9,001 and 10,000 = Immortal
 If XP is greater than or equal to 10,001 = Radiant
 
-## Exit
-
+Exit ->
 At the end, a message should be displayed:
 "The Hero named **{name}** is at **{level}**"
 
